@@ -6,4 +6,5 @@ fun main() {
     val lastName = "Cavalcante" // para variaveis imutaveis
 
     println(name + " " + lastName)
+    println("$name $lastName")
 }
