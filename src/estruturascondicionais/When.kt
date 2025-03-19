@@ -15,3 +15,19 @@ fun main() {
     println(name)
 
 }
+
+/*
+fun cases(obj: Any) {
+    when (obj) {
+        1 -> println("One")
+        "Hello" -> println("Greeting")
+        is Long -> println("Long")
+        !is String -> println("Not a String")
+        else -> println("Unkown")
+    }
+
+    cases("Hello")
+    cases("hello")
+    cases(1)
+    cases(0L)
+}*/
