@@ -1,4 +1,4 @@
-package Oop
+package oop
 
 sealed class Mammal(val name: String)
 

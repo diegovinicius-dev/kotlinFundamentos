@@ -1,4 +1,4 @@
-package Oop
+package oop
 
 data class User(val name: String, val id: Int) {
     override fun equals(other: Any?) =

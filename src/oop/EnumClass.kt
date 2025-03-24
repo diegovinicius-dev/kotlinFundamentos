@@ -1,4 +1,4 @@
-package Oop
+package oop
 
 enum class State {
     IDLE,

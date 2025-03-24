@@ -1,4 +1,4 @@
-package Oop
+package oop
 
 open class Dog { // Open class chave para herança
     open fun sayHello() {

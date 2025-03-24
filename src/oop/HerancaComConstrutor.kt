@@ -1,4 +1,4 @@
-package Oop
+package oop
 
 open class Tiger(val origin: String) {
     fun sayHello() {
